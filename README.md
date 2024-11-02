@@ -1,7 +1,9 @@
 **D-Mart Sales Analysis - 2024**
+
 This project provides an in-depth analysis of D-Mart sales data for 2024, covering approximately 10,000 rows of data. Using advanced Excel functionalities and data visualization techniques, I developed a professional dashboard to reveal critical insights into sales performance across various dimensions.
 
 **Project Overview**
+
 The D-Mart Sales Analysis - 2024 project focuses on:
 
 **Sales Analysis by Category**: Visualizing sales trends across product categories to identify top-performing segments.
@@ -13,6 +15,7 @@ The D-Mart Sales Analysis - 2024 project focuses on:
 **Profit Margins**: Assessing profit margins across different categories and regions to aid strategic decisions.
 
 **Key Features**
+
 **Dashboard**: Interactive, user-friendly dashboard with visualizations for quick insights.
 
 **Data Handling**: Managed and processed 10,000 rows of sales data efficiently in Excel.
